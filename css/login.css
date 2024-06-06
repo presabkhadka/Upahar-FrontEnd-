@@ -1,0 +1,15 @@
+.container{
+    height: 60vh;
+    width: 100%;
+    text-align: center;
+    margin-top: 3rem;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.form{
+    display: grid;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
